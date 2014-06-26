@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>archive-type</artifactId>
-    <version>0.1.2-SNAPSHOT</version>
+    <version>0.1.2</version>
     <name>archive-type</name>
     <description>WebJar for archive-type</description>
     <url>http://webjars.org</url>
@@ -28,7 +28,7 @@
         <url>https://github.com/webjars/archive-type</url>
         <connection>scm:git:https://github.com/webjars/archive-type.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/archive-type.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>archive-type-0.1.2</tag>
     </scm>
 
     <developers>
